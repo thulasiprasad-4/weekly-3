@@ -1,0 +1,17 @@
+body {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  background:#0f172a;
+  color:white;
+}
+.card {
+  background:white;
+  color:black;
+  padding:30px;
+  border-radius:12px;
+}
+
+
+

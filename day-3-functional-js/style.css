@@ -1,0 +1,13 @@
+body {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  background:#f1f5f9;
+}
+.card {
+  background:white;
+  padding:30px;
+  border-radius:12px;
+}
+
